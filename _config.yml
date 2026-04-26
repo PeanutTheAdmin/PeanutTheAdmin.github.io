@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://jacobcavaness.com"
 
 github:
-  username: PeanutTheAdmin # change to your GitHub username
+  username: PeanutTheAdmin
 
-twitter:
-  username: # change to your Twitter username
+linkedin:
+  username: jacob-cavaness
 
 social:
   # Change to your full name.
